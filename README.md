@@ -1,4 +1,4 @@
-🏠 House Price Prediction using Linear Regression
+🏠 TASK 1 – House Price Prediction using Machine Learning
 
 SkillCraft Technology – Machine Learning Internship (Task 01)
 
